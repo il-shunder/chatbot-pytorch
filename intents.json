@@ -23,17 +23,17 @@
         {
             "tag": "get_time",
             "patterns": ["what time is it", "tell me the time", "what's the time", "time"],
-            "responses": [""]
+            "responses": []
         },
         {
             "tag": "get_date",
             "patterns": ["what date is it", "tell me the date", "what's the date", "date"],
-            "responses": [""]
+            "responses": []
         },
         {
             "tag": "get_stock",
             "patterns": ["What is the stock?", "Give me the stock", "Stock price", "Get stock"],
-            "responses": [""]
+            "responses": []
         },
         {
             "tag": "age",
